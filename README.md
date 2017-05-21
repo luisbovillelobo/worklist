@@ -1,2 +1,2 @@
 # worklist
-My web works list.
+My technical works list.
