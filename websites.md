@@ -1,44 +1,42 @@
 
--- https://www.scolartic.com/ <br/>
--- https://www.stembyme.com/ <br/>
--- https://www.vivo.com.br/portalweb/appmanager/env/web <br/>
+- https://www.scolartic.com/ <br/>
+- https://www.stembyme.com/ <br/>
+- https://www.vivo.com.br/portalweb/appmanager/env/web <br/>
 
--- https://www.abahanavillas.com/es/ <br/>
--- http://www.madridactual.es/ <br/>
--- http://www.diariodeboadilla.es/ <br/>
--- http://www.madridactual.es/las-rozas-de-madrid/ <br/>
--- http://www.pozueloradio.es/ <br/>
--- http://www.diariodepozuelo.es/ <br/>
--- http://www.madridactual.es/sevilla-la-nueva/ <br/>
--- http://www.noticiasdemajadahonda.es/ <br/>
--- http://www.revistadeporte.es/ <br/>
+- https://www.abahanavillas.com/es/ <br/>
+- http://www.madridactual.es/ <br/>
+- http://www.diariodeboadilla.es/ <br/>
+- http://www.madridactual.es/las-rozas-de-madrid/ <br/>
+- http://www.pozueloradio.es/ <br/>
+- http://www.diariodepozuelo.es/ <br/>
+- http://www.madridactual.es/sevilla-la-nueva/ <br/>
+- http://www.noticiasdemajadahonda.es/ <br/>
+- http://www.revistadeporte.es/ <br/>
 
--- http://www.svenson.es/ <br/>
--- http://www.svenson.de/ <br/>
--- http://www.svensonschweiz.ch/ <br/>
--- http://www.svenson.pt/ <br/>
--- (Y 3 proyectos más de consultora de finanzas que aún no han salido a producción)
+- http://www.svenson.es/ <br/>
+- http://www.svenson.de/ <br/>
+- http://www.svensonschweiz.ch/ <br/>
+- http://www.svenson.pt/ <br/>
+- (Y 3 proyectos más de consultora de finanzas que aún no han salido a producción)
 
--- https://www.astrazeneca.es/ <br/>
+- https://www.astrazeneca.es/ <br/>
+- http://www.sigaus.es/ <br/>
+- http://www.shell.es/ <br/>
+- http://www.tarjetashellclubsmart.es/ <br/>
+- http://www.creditoycaucion.es/ <br/>
+- https://www.nosconectalasalud.com/ <br/>
 
--- http://www.sigaus.es/ <br/>
--- http://www.shell.es/ <br/>
--- http://www.tarjetashellclubsmart.es/ <br/>
+- https://www.astrazeneca.es/ <br/>
+- https://www.nosconectalasalud.com/ <br/>
 
--- http://www.creditoycaucion.es/ <br/>
--- https://www.nosconectalasalud.com/ <br/>
+- https://www.hacesmasdeloquecrees.org/ <br/>
 
--- https://www.astrazeneca.es/ <br/>
--- https://www.nosconectalasalud.com/ <br/>
+- http://www.telefonicaeducaciondigital.com/ <br/>
+- http://reformasnuevaera.com/ <br/>
 
--- https://www.hacesmasdeloquecrees.org/ <br/>
-
--- http://www.telefonicaeducaciondigital.com/ <br/>
--- http://reformasnuevaera.com/ <br/>
-
--- http://talentumempleo.com/ <br/>
--- https://www.leemos.es/ <br/>
--- Webs del grupo Caser e intranet
+- http://talentumempleo.com/ <br/>
+- https://www.leemos.es/ <br/>
+- Webs del grupo Caser e intranet
 
 - http://barbariders.com/ <br/>
 - http://espaciomuelle36.com/ <br/>
