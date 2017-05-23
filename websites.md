@@ -1,73 +1,57 @@
 
-- JOOMLA: 
--- http://www.madridactual.es/
--- http://www.diariodeboadilla.es/
--- http://www.madridactual.es/las-rozas-de-madrid/
--- http://www.pozueloradio.es/
--- http://www.diariodepozuelo.es/
--- http://www.madridactual.es/sevilla-la-nueva/
--- http://www.noticiasdemajadahonda.es/
--- http://www.revistadeporte.es/
+-- http://www.madridactual.es/ <br/>
+-- http://www.diariodeboadilla.es/ <br/>
+-- http://www.madridactual.es/las-rozas-de-madrid/ <br/>
+-- http://www.pozueloradio.es/ <br/>
+-- http://www.diariodepozuelo.es/ <br/>
+-- http://www.madridactual.es/sevilla-la-nueva/ <br/>
+-- http://www.noticiasdemajadahonda.es/ <br/>
+-- http://www.revistadeporte.es/ <br/>
 
-- WORDPRESS: 
--- http://www.svenson.es/
--- http://www.svenson.de/
--- http://www.svensonschweiz.ch/
--- http://www.svenson.pt/
+-- http://www.svenson.es/ <br/>
+-- http://www.svenson.de/ <br/>
+-- http://www.svensonschweiz.ch/ <br/>
+-- http://www.svenson.pt/ <br/>
 -- (Y 3 proyectos más de consultora de finanzas que aún no han salido a producción)
 
-- DRUPAL:
--- https://www.astrazeneca.es/
+-- https://www.astrazeneca.es/ <br/>
 
-- ASP.NET
--- http://www.sigaus.es/
--- http://www.shell.es/
--- http://www.tarjetashellclubsmart.es/
+-- http://www.sigaus.es/ <br/>
+-- http://www.shell.es/ <br/>
+-- http://www.tarjetashellclubsmart.es/ <br/>
 
-- JAVA:
--- http://www.creditoycaucion.es/
--- https://www.nosconectalasalud.com/
+-- http://www.creditoycaucion.es/ <br/>
+-- https://www.nosconectalasalud.com/ <br/>
 
-- ANGULAR1:
--- https://www.astrazeneca.es/
--- https://www.nosconectalasalud.com/
+-- https://www.astrazeneca.es/ <br/>
+-- https://www.nosconectalasalud.com/ <br/>
 
-- JS:
--- https://www.hacesmasdeloquecrees.org/
+-- https://www.hacesmasdeloquecrees.org/ <br/>
 
-- LIFERAY 6.(1-2):
--- https://www.scolartic.com/
--- https://www.stembyme.com/
--- https://www.vivo.com.br/portalweb/appmanager/env/web
+-- https://www.scolartic.com/ <br/>
+-- https://www.stembyme.com/ <br/>
+-- https://www.vivo.com.br/portalweb/appmanager/env/web <br/>
 
-- LIFERAY 7:
--- http://www.telefonicaeducaciondigital.com/
+-- http://www.telefonicaeducaciondigital.com/ <br/>
+-- http://reformasnuevaera.com/ <br/>
 
-- HTML1 CSS:
--- http://www.sapientiamformacion.com/ 
--- http://www.sapientiamformacion.com/web/Plantilla1/quienes-somos.html 
-
-- HTML5 CSS3:
--- http://reformasnuevaera.com/
-
-- LIFERAY 6.(1-2):
--- http://talentumempleo.com/
--- https://www.leemos.es/
+-- http://talentumempleo.com/ <br/>
+-- https://www.leemos.es/ <br/>
 -- Webs del grupo Caser e intranet
 
-- http://barbariders.com/
-- http://espaciomuelle36.com/
-- http://todogemas.com/
-- http://reformasnuevaera.es/
-- http://proyectozero.es/
-- http://ohka.es/
-- http://lorenzoycanton.com/
-- http://equaliteabogados.es/
-- http://bytedesigning.net/
-- http://algetesi.es/
-- http://www.rivendelmadrid.es/
+- http://barbariders.com/ <br/>
+- http://espaciomuelle36.com/ <br/>
+- http://todogemas.com/ <br/>
+- http://reformasnuevaera.es/ <br/>
+- http://proyectozero.es/ <br/>
+- http://ohka.es/ <br/>
+- http://lorenzoycanton.com/ <br/>
+- http://equaliteabogados.es/ <br/>
+- http://bytedesigning.net/ <br/>
+- http://algetesi.es/ <br/>
+- http://www.rivendelmadrid.es/ <br/>
 
-- Webs de Caser
-- Webs Shell, Club Disa, Monta tu peli 
-- Portal web y app web en desarrollo (empresa actual)
+- Webs de Caser <br/>
+- Webs Shell, Club Disa, Monta tu peli <br/>
+- Plataforma web de alta disponibilidad escalable en la nube y app de alta disponibilidad escalable en la nube en desarrollo (empresa actual) <br/>
 
