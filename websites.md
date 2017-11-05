@@ -54,3 +54,10 @@
 - Webs Shell, Club Disa, Monta tu peli <br/>
 - Plataforma web de alta disponibilidad escalable en la nube y app de alta disponibilidad escalable en la nube en desarrollo (empresa actual) <br/>
 
+- Alsa (CRO) capa Angular
+- Grupo Vips (CRO) javascript
+- VIPS (CRO) jquery
+- Ginos (CRO) jquery
+- Saba (en trabajo) Liferay 7 CE
+- Rodilla (app y cro)
+- Grupo NH Hoteles (web, performance, cro)
